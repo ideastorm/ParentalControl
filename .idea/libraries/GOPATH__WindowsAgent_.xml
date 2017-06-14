@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;WindowsAgent&gt;">
+    <CLASSES>
+      <root url="file://C:/Go/external/src/github.com" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://C:/Go/external/src/github.com" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/ManagementService" />
+      <root url="file://$PROJECT_DIR$/WindowsAgent" />
+    </excluded>
+  </library>
+</component>
